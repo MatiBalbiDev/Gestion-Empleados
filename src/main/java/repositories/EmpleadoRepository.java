@@ -8,4 +8,5 @@ import com.springBoot.GestionEmpleados.entities.Empleado;
 @Repository
 public interface EmpleadoRepository extends JpaRepository<Long, Empleado>{
 
+	
 }
